@@ -1,0 +1,7 @@
+1- npm install -g expo-cli
+2- create new project  - npx create-expo-app-my-app
+3- npx expo start (run the app)
+4- React navigation setup:- (https://reactnavigation.org/docs/getting-started/)
+    - npm install @react-navigation/native
+    - npx expo install react-native-screens react-native-safe-area-context
+    - npm install @react-navigation/native-stack
